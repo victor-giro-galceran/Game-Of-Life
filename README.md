@@ -5,16 +5,18 @@ My game of life is developed interactively by console, this way, you can see the
 
 First I have created a menu to perform different processes
 
-![image](https://user-images.githubusercontent.com/100146028/161871897-bf629435-5bed-489b-9aa8-276123f23579.png)
+![image](https://user-images.githubusercontent.com/100146028/161976424-92157742-0658-4aa7-9657-23d6ea174838.png)  
 
 If you choose to place the cells manually, you will be prompted to enter the row and column
 
-![image](https://user-images.githubusercontent.com/100146028/161873974-cfb01f18-41b4-4cf3-8778-de4c59c347ea.png)
+![image](https://user-images.githubusercontent.com/100146028/161976713-8d73600d-f618-4802-aea3-4ccc04561bb4.png)
 
 If you decide to have the cells placed automatically, you will be asked how many groups you want to generate
 
-![image](https://user-images.githubusercontent.com/100146028/161875694-6baf360f-0ddb-4342-b2ac-035eab7efcf8.png)
+![image](https://user-images.githubusercontent.com/100146028/161977372-feff7aaa-2e36-45f4-a05d-289c9ae2c8cb.png)
 
 Once the cells have been introduced, either manually or automatically, a total reproduction of generations will be required to contemplate their evolution.
+
+![image](https://user-images.githubusercontent.com/100146028/161977557-15e75b7f-89cf-4a48-b5c6-0de575e11b41.png)
 
 ![game-of-life](https://user-images.githubusercontent.com/100146028/161875568-50f8deaa-baca-4a8d-b67b-0eed26447413.gif)
