@@ -2,6 +2,11 @@
 import java.util.Arrays;
 import java.util.Scanner;
 
+/* 
+Author:		green-vibes-coding
+URL:		-
+Version:	1.0
+*/
 
 public class Game_Of_Life {
 	
