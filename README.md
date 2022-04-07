@@ -1,6 +1,17 @@
 # Game Of Life
 The Game of Life is an example of a cellular automaton and a zero-player game. It takes place on an infinite two-dimensional grid in which cells can be ‘on’ (alive) or ‘off’ (dead), and is defined by a set of rules that jointly determine the state of a cell given the state of its neighbours
 
+> **<h4>Rules</h4>**
+> 
+>- Every living cell with 2 or 3 neighboring cells \"survives\"
+>
+>- Every cell with 4 or more neighbors dies from \"overpopulation\"
+>
+>- Every cell with 1 or no neighbors dies from \"loneliness\"
+>
+>- Each dead cell with 3 neighboring live cells, \"revive\"
+> 
+
 My game of life is developed interactively by console, this way, you can see the progress of each generation.
 
 First I have created a menu to perform different processes
