@@ -12,6 +12,7 @@ The Game of Life is an example of a cellular automaton and a zero-player game. I
 >- Each dead cell with 3 neighboring live cells, \"revive\"
 > 
 
+## My Conway's Game Of Life
 My game of life is developed interactively by console, this way, you can see the progress of each generation.
 
 First I have created a menu to perform different processes
