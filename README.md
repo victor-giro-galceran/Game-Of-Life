@@ -3,13 +3,13 @@ The Game of Life is an example of a cellular automaton and a zero-player game. I
 
 > **<h4>Rules</h4>**
 > 
->- Every living cell with 2 or 3 neighboring cells \"survives\" &check;
+> &check; Every living cell with 2 or 3 neighboring cells \"survives\"
 >
->- Every cell with 4 or more neighbors dies from \"overpopulation\" &check;
+> &check; Every cell with 4 or more neighbors dies from \"overpopulation\"
 >
->- Every cell with 1 or no neighbors dies from \"loneliness\" &check;
+> &check; Every cell with 1 or no neighbors dies from \"loneliness\"
 >
->- Each dead cell with 3 neighboring live cells, \"revive\" &check;
+> &check; Each dead cell with 3 neighboring live cells, \"revive\"
 > 
 
 ## My Conway's Game Of Life
