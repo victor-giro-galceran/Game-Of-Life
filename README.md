@@ -36,3 +36,7 @@ Once the cells have been introduced, either manually or automatically, a total r
 ![image](https://user-images.githubusercontent.com/100146028/161977557-15e75b7f-89cf-4a48-b5c6-0de575e11b41.png)
 
 ![Game-Of-Life](https://user-images.githubusercontent.com/100146028/162016913-9d45c124-3aac-446e-a017-c0bca442e076.gif)
+
+#
+>Contributions, issues, and feature requests are welcome!
+>Give a ⭐️ if you like this project!
