@@ -14,12 +14,10 @@ The Game of Life is an example of a cellular automaton and a zero-player game. I
 
 ## My Conway's Game Of Life
 My game of life is developed interactively by console, this way, you can see the progress of each generation.
-- [x] It works?
-- [x] Simple
-- [x] Interactive?
-- [x] Needs some updates
-- [ ] It's perfect?
-- [ ] It's definitive?
+
+| Today's code | To update |
+| ------------- | ------------- |
+|  <ul><li>[x] Works</li><li>[x] Simple</li><li>[x] Interactive</li><li>[x] Needs some updates</li></ul>  | <li>[ ] Clear data after task</li><li>[ ] Automatic method</li><li>[ ] Not perfect</li><li>[ ] Not definitive</li>  |
 
 First I have created a menu to perform different processes
 
