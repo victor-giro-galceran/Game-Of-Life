@@ -3,19 +3,19 @@ The Game of Life is an example of a cellular automaton and a zero-player game. I
 
 > **<h4>Rules</h4>**
 > 
->- Every living cell with 2 or 3 neighboring cells \"survives\"
+>- Every living cell with 2 or 3 neighboring cells \"survives\" &check;
 >
->- Every cell with 4 or more neighbors dies from \"overpopulation\"
+>- Every cell with 4 or more neighbors dies from \"overpopulation\" &cross;
 >
->- Every cell with 1 or no neighbors dies from \"loneliness\"
+>- Every cell with 1 or no neighbors dies from \"loneliness\" &cross;
 >
->- Each dead cell with 3 neighboring live cells, \"revive\"
+>- Each dead cell with 3 neighboring live cells, \"revive\" &check;
 > 
 
 ## My Conway's Game Of Life
 My game of life is developed interactively by console, this way, you can see the progress of each generation.
 
-| Today's code | To update |
+| Today's code  | To update |
 | ------------- | ------------- |
 |  <ul><li>[x] Works</li><li>[x] Simple</li><li>[x] Interactive</li><li>[x] Needs some updates</li></ul>  | <li>[ ] Clear data after task</li><li>[ ] Automatic method</li><li>[ ] Not perfect</li><li>[ ] Not definitive</li>  |
 
